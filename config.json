@@ -1,6 +1,6 @@
 {
-    "pool": "aro.cool",
-    "wallet_address": "5n4x4MFi97B9jnYn7JbtnnKhrc9kzzpLEvAriB2qRypz6dhuHZjRsaAwbQp3NDPSeMv7L8GiACz5yNGx2Z3UQc9",
+    "pool": "http://aropool.com",
+    "wallet_address": "5jpiVh4tcRXe3xxW8mHzYeKQ6XSXfvRw1XSW8yd28qJUvm3Fhzu2p8cL14TKw3vEPRGku6Yg2DZsAHvWULinZrdw",
     "worker_name" : "python",
     "worker_quantity" : 4,
     "hash_rate_interval": 20,
