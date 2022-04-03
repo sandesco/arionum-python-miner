@@ -1,5 +1,5 @@
 {
-    "pool": "http://aropool.com",
+    "pool": "aropool.com",
     "wallet_address": "5jpiVh4tcRXe3xxW8mHzYeKQ6XSXfvRw1XSW8yd28qJUvm3Fhzu2p8cL14TKw3vEPRGku6Yg2DZsAHvWULinZrdw",
     "worker_name" : "python",
     "worker_quantity" : 4,
